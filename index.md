@@ -3,7 +3,7 @@
                                            
 <p>no hay capitalismo sin propiedad privada.
 <p>metro cuadrado (m2): unidad basica de superficie.
-<p>libertad: estar en paz, al abrigo de daños y de amenzas.  
+<p>libertad: estar en paz, al abrigo de daños y de amenazas.  
 <p>BAUN: vivir, habitar, cultivar, residir, convertirse en.
 <p>cultura: colere, habitar, cultivar, proteger.
 <p>construir, habitar, pensar.
